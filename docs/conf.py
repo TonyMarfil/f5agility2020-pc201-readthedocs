@@ -5,7 +5,7 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "PC101 - Deploying F5 Solutions to AWS with Terraform and CloudFormation Templates"
+classname = "PC201 - Deploying F5 Solutions to AWS with Terraform and iControl LX Extensions"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
 github_repo = "https://github.com/TonyMarfil/f5agility2020-pc101-readthedocs"
